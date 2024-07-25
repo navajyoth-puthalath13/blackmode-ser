@@ -1,0 +1,4 @@
+Flask==2.0.1
+SQLAlchemy==1.4.22
+Flask-SSE==0.2.1
+redis==3.5.3
